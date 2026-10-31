@@ -13,7 +13,7 @@ int main(){
             if (n>= abs(x -y)/2 )  printf ("%d %d\n", abs(x -y)/2, n-abs(x -y)/2);
             else printf("-1 -1\n");
         }
-        if (x<=y){
+        if (x<y){
             if (n>= abs(x -y)/2 )  printf ("%d %d\n",  n-abs(x -y)/2,abs(x -y)/2);
             else printf("-1 -1\n");
         }
