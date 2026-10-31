@@ -1,0 +1,8 @@
+# build output
+*.exe
+*.bin
+*.o
+
+# cph test data and editor settings
+.cph/
+.vscode/
